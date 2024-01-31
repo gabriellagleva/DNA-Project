@@ -1,4 +1,4 @@
-# DNA-Project
+# GUI-DNA-ANALYSIS
 
 
 Hello, I a Gabe Lagleva. This was a simple project that I did to get a little bit more comfortant with Tkinter. Never done anything like this before, so it does have much to be desired. 
