@@ -14,7 +14,7 @@ class MyGUI:
         tab3 = ttk.Frame(notebook)
         #Starting tab
         notebook.add(tab0, text = "Start")
-        lblResults =tk.Label(tab0, text = "Hello, my name is Gabriel Lagleva. I wrote this as a bit of a project to do over Wofford College's Interium. I'll admit, its not the best. Honestly the first time I have sat down and really tried to make something like this, so its definatly rough around the edges. However, I have committed to making it better over the next few months. \n I'm not sure why you would want to, but if you want to talk to me about this project, you can do so at gabelagleva@gmail.com. The entire software is MIT liscenced, so you're free to use it however you want (assuming you follow the rules), so you don't need to ask me for permission or anything. ", wraplength= 500)
+        lblResults =tk.Label(tab0, text = "Hello, my name is Gabriel Lagleva. I wrote this as a bit of a project to do over Wofford College's Interium. I'll admit, its not the best. Honestly the first time I have sat down and really tried to make something like this, so its definatly rough around the edges. However, I have committed to making it better over the next few months. \n I'm not sure why you would want to, but if you want to talk to me about this project, you can do so at gabelagleva@gmail.com. The entire software is MIT liscenced, so you're free to use it however you want (assuming you follow the rules), so you don't need to ask me for permission or anything. =)", wraplength= 500)
         lblResults.pack()
 
         #tab1
